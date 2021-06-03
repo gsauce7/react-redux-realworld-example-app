@@ -1,3 +1,4 @@
+[X] made a change to this readme...
 # ![React + Redux Example App](project-logo.png)
 
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
